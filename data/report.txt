@@ -1,0 +1,7 @@
+Campus Placement Management System Report
+Students: 3
+Jobs: 3
+Applications: 5
+PENDING applications: 2
+SELECTED applications: 2
+REJECTED applications: 1
